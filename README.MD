@@ -1,7 +1,6 @@
-# Likeme
+Desafio Likeme
     Desafío 3, Acceso a Base de Datos con Node (Parte I)
-## Detalles
-* APP hecha en **commonJS**.
+Detalles
 * Instrucciones
     * En la carpeta backend va un archivo sql para poblar la bbdd
     * En la carpeta backend Crear archivo .env y dentro crear las siguientes variables de entorno para levantar el servidor: 
